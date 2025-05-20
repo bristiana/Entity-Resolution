@@ -158,7 +158,7 @@ python entity_resolution.py
 
 This will:
 
-1. Load the company data from `data/entity_resolution.json`
+1. Load the company data from `entity_resolution.json`
 2. Preprocess the data and create blocking structures
 3. Find similar company pairs
 4. Build clusters of duplicate records
