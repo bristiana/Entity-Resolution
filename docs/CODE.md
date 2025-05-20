@@ -5,14 +5,14 @@ This document provides detailed documentation for each function in the memory-ef
 
 ## Table of Contents
 
-1. [Class Overview](https://claude.ai/chat/42709044-90c9-4283-b2e5-8c22317d57a3#class-overview)
-2. [Data Loading and Preprocessing](https://claude.ai/chat/42709044-90c9-4283-b2e5-8c22317d57a3#data-loading-and-preprocessing)
-3. [Blocking Strategy](https://claude.ai/chat/42709044-90c9-4283-b2e5-8c22317d57a3#blocking-strategy)
-4. [Similarity Calculation](https://claude.ai/chat/42709044-90c9-4283-b2e5-8c22317d57a3#similarity-calculation)
-5. [Clustering](https://claude.ai/chat/42709044-90c9-4283-b2e5-8c22317d57a3#clustering)
-6. [Representative Selection](https://claude.ai/chat/42709044-90c9-4283-b2e5-8c22317d57a3#representative-selection)
-7. [Output Generation](https://claude.ai/chat/42709044-90c9-4283-b2e5-8c22317d57a3#output-generation)
-8. [Runner](https://claude.ai/chat/42709044-90c9-4283-b2e5-8c22317d57a3#runner)
+1. Class Overview
+2. Data Loading and Preprocessing
+3. Blocking Strategy
+4. Similarity Calculation
+5. Clustering
+6. Representative Selection
+7. Output Generation
+8. Runner
 
 ## Class Overview
 
