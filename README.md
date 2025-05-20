@@ -170,16 +170,14 @@ This will:
 ```
 entity-resolution/
 ├── entity_resolution.py    # Main implementation
-├── output/                 # Data files
+├── input/                  # Data files
 │   ├── entity_resolution.json  # Input dataset
-│   ├── entity_resolution_results.json        # Complete results
+├── output/                 # Data files
 │   └── entity_resolution_results_unique.json # Deduplicated results
 ├── docs/                   # Documentation
 │   ├── CODE.md             # Code documentation
 │   ├── SOLUTION.md         # Solution approach
 │   └── CHALLENGES.md       # Challenges and resolutions
-├── examples/               # Examples and visualizations
-│   └── cluster_examples.json   # Example clusters
 ├── requirements.txt        # Dependencies
 └── README.md               # This file
 
