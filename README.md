@@ -200,3 +200,14 @@ This project is licensed under the MIT License .
 - Veridion for providing the interesting entity resolution challenge
 - NetworkX library for efficient graph-based clustering
 - Jellyfish for string similarity calculations
+
+## References & Resources
+
+The implementation of this entity resolution solution was informed by the following resources:
+
+- Christen, P. (2012). *Data Matching: Concepts and Techniques for Record Linkage, Entity Resolution, and Duplicate Detection*. Springer.
+- Cohen, W. W., & Richman, J. (2002). *Learning to match and cluster large high-dimensional data sets for data integration*. In Proceedings of KDD '02.
+- [Dedupe.io Documentation](https://docs.dedupe.io/en/latest/) - Open-source Python library for deduplication
+- Konda, P. et al. (2016). *Magellan: Toward building entity matching management systems*. VLDB.
+- NetworkX Documentation for graph-based clustering techniques
+- Jellyfish string similarity library documentation
